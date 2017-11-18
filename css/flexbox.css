@@ -1,8 +1,0 @@
-.flex-container {
-    background-color: aquamarine;
-display: flex;
-justify-content: space-around; }
-
-
-.flex-items {background-color: lightgray;
-padding: 15px}
